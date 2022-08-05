@@ -4,7 +4,7 @@ I am a homegrown Angelina :seedling:. When I'm not coding I'm either reading, da
 
 - 🔭 I’m currently working on the Healthy Plate app with a group of fellow developers
 - 💬 Ask me about my Github Projects
-- 📫 How to reach me: kimrdgz.ucla@gmail.com
+- 📫 How to reach me: krodriguez.ucla@gmail.com
 - 😄 Pronouns: she | her | ella
 
 Thanks for stopping by and I look forward to staying connected! 
