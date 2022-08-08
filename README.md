@@ -2,7 +2,7 @@
 
 I am a homegrown Angelina :seedling:. When I'm not coding I'm either reading, dancing or boxing in VR. 
 
-- 🔭 I’m currently working on the Healthy Plate app with a group of fellow developers
+- 🔭 I’m currently working on the Healthy Plate Project with a group of fellow developers
 - 💬 Ask me about my Github Projects
 - 📫 How to reach me: krodriguez.ucla@gmail.com
 - 😄 Pronouns: she | her | ella
