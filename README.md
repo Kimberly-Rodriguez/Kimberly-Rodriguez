@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Kimberly :octocat: ! 
 
-I am a homegrown Angelina :seedling: -- when I'm not coding I'm either reading, dancing or boxing in VR. 
+I am a homegrown Angelina :seedling: when I'm not coding I'm either reading, dancing or boxing in VR. 
 
 - 🔭 I’m currently working on the Healthy Plate Project with a group of fellow developers
 - 💬 Ask me about my Github Projects
